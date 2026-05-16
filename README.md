@@ -1,4 +1,4 @@
-👋 Hi, I'm Manoj — a Full Stack Developer passionate about building real-time and interactive web applications.
+👋 Hi, I'm Manoj — passionate about building real-time and interactive web applications.
 
 I enjoy learning by building projects that push me beyond basic frontend development into backend architecture, real-time communication, and scalable application design.
 
